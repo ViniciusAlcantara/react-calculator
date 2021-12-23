@@ -1,0 +1,10 @@
+.number {
+    color: black;
+    background-color: white;
+    font-size: 1.4em;
+}
+.operation {
+    color: white;
+    background-color: black;
+    font-size: 1.4em;
+}
